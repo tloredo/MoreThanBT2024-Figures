@@ -1,5 +1,6 @@
 """
-Plot a bivariate normal sampling dist'n and associated likelihood function.
+Plot a collection of bivariate normal sampling distributions and the associated 
+likelihood function.
 
 2021-06-02 Created by Tom Loredo, for CASt Summer School
     (based on bvn_lab.py from BDA2020 course lab)
